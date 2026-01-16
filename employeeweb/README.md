@@ -23,7 +23,7 @@ A modern, fully-functional Employee Management System built with React and Vite.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/employee-management-app.git
+git clone https://github.com/harivasan1/empolyment-hr.git
 cd employeeweb
 
 # Install dependencies
