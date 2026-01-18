@@ -29,7 +29,7 @@ export default function LoginPage({ onLogin }) {
     <div className="login-wrapper">
       <div className="login-container">
         <div className="login-header">
-          <h1>🏢 Employee Management</h1>
+          <h1> Employee Management</h1>
           <p>Sign in to your account</p>
         </div>
 

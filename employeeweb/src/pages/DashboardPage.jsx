@@ -86,7 +86,7 @@ export default function DashboardPage() {
 
           {employees.length === 0 ? (
             <div className="empty-state">
-              <div className="empty-icon">📭</div>
+              <div className="empty-icon"></div>
               <p>No employees yet. Add your first employee above!</p>
             </div>
           ) : (
